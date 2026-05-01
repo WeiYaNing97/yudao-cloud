@@ -1,4 +1,4 @@
-package cn.iocoder.yudao.module.order;
+package cn.iocoder.yudao.module.points;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

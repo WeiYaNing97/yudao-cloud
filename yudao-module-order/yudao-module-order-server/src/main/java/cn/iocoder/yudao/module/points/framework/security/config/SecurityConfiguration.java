@@ -1,4 +1,4 @@
-package cn.iocoder.yudao.module.order.framework.security.config;
+package cn.iocoder.yudao.module.points.framework.security.config;
 
 import cn.iocoder.yudao.framework.security.config.AuthorizeRequestsCustomizer;
 import org.springframework.context.annotation.Bean;
